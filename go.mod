@@ -1,0 +1,9 @@
+module github.com/iovanom/asana_extractor
+
+go 1.24.2
+
+require (
+	github.com/joho/godotenv v1.5.1
+	github.com/robfig/cron/v3 v3.0.1
+	golang.org/x/sync v0.13.0
+)
